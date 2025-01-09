@@ -5,8 +5,7 @@ My name is Phuc, and I'm a passionate Data Engineer with a love for cloud techno
 - 💬 Tech stack: Cloud (GCP, Azure, AWS), Elasticsearch, Databricks, Python, SQL, and a sprinkle of Spark  
 - ⚡ Hobbies: Exploring data visualization, hiking, and experimenting with new tech trends  
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nptran&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nptran&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nptran&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nptran&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--  
 **nptran/nptran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
