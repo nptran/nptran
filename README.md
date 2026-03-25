@@ -2,7 +2,7 @@
 My name is Phuc, and I'm a Data Engineer with a passion for cloud technologies, Elasticsearch, and Databricks. With a solid background in web development, I have worked on numerous Java and web projects, which helps me build efficient data solutions.  
 
 - 😄 Pronouns: He/him  
-- 💬 Tech stack: Java, Cloud (GCP, Azure, AWS), Elasticsearch, Databricks, Python, SQL, and a bit of JavaScript  
+- 💬 Tech stack: Cloud (GCP, Azure, AWS), Elastic stack, Databricks, Java, Python, SQL, and a bit of JavaScript  
 - ⚡ Hobbies: Science fiction, Cosmology, Adventurous journeys   
 
 [![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nptran&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nptran&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
